@@ -1,2 +1,3 @@
 Hello world
 To testing, this is hello.txt in main/default branch.
+Editing file to test squash 1
