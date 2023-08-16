@@ -1,3 +1,4 @@
 Hello world saja
-Testing to got squash 1
-Testing to got squash 2
+Testing to get squash 1
+Testing to get squash 2
+Testing to get squash 3
