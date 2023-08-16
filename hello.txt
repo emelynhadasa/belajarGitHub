@@ -1,1 +1,2 @@
 Hello world saja
+Testing to got squash 1
